@@ -20,3 +20,4 @@
 .cup{z-index:3;clip-path:polygon(0 5px,2% 8px,7% 12px,15% 16px,25% 18px,38% 20px,50% 20px,62% 20px,75% 18px,85% 16px,93% 12px,98% 8px,100% 5px,100% 100%,0 100%)}
 .cup-rim{display:none}
 @media(max-width:370px){.tap-hint{font-size:10px;letter-spacing:1px;padding:3px 7px;translate:58px 0;animation-name:nudge-xs}@keyframes nudge-xs{0%,76%,100%{translate:58px 0}84%{translate:52px 0}92%{translate:58px 0}}}
+.usage{display:block;margin-top:6px;font-size:12px;letter-spacing:1px}.usage[hidden]{display:none}footer .usage{margin:0;font-size:10px}
